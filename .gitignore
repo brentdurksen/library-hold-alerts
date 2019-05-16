@@ -1,4 +1,5 @@
 *.swp
 *~
 libcreds.json
+*console.log
 .vagrant/
